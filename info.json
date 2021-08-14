@@ -1,0 +1,8 @@
+{
+    "title": "autoTag Dummy",
+    "description": "Sample implementation of an auto-tag plugin.",
+    "id":"autoTagDummy",
+    "type": "metadata",
+    "author": "mmuffins",
+    "version": "1.0.0"
+}
